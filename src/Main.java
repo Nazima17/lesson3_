@@ -11,6 +11,7 @@ public class Main {
             if (num < 0) {
                 letter = true ;
 
+
             }
             if (num > 0 && letter) {
                 coffe=num+coffe;
